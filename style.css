@@ -10,13 +10,13 @@
 }
 
 aside {
-    width: 200px; /* Ajusta el ancho según tus necesidades */
+    width: 270px; /* Ajusta el ancho según tus necesidades */
     background-color: #1e1e1ee6;
     color: white;
     padding: 20px;
     overflow: auto;
     
-   height: 550px;
+   height: 720px;
 }
 
 body{
@@ -27,7 +27,7 @@ main {
     padding: 20px;
     overflow: auto;
     text-align: justify;
-    height: 550px;
+    height: 720px;
 }
 footer {
     background-image: url(galaxi.jpg);
