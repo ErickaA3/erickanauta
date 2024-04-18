@@ -1,5 +1,5 @@
 .verdenav{
-    background-color: rgb(111, 247, 20);
+    background-color: rgb(26, 231, 149);
 }
 .cont {
     margin: 0;
@@ -58,8 +58,8 @@ footer {
 
 a{
     text-decoration: none;
-    color: rgb(111, 247, 20);
+    color: rgb(26, 231, 149);
 }
 a:hover{
-    color: rgb(75, 168, 13);
+    color: rgb(26, 231, 149);
 }
