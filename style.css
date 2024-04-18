@@ -8,7 +8,18 @@
     color: #f0f0f0;
     background-color: #1e1e1ee6;
 }
-
+.contenedor--video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+video{
+   background-color: rgb(26, 231, 149);
+    border: rgb(26, 231, 149) solid 2px;
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+}
 aside {
     width: 270px; /* Ajusta el ancho según tus necesidades */
     background-color: #1e1e1ee6;
